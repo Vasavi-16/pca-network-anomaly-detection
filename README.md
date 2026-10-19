@@ -31,7 +31,7 @@ The model learns patterns from normal network traffic and uses reconstruction er
 * NumPy
 * scikit-learn
 * SciPy
-* Jupyter Notebook
+* Google Colab (Jupyter Notebook Environment)
 
 ## Evaluation
 
